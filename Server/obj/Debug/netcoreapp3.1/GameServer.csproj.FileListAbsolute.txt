@@ -1,0 +1,12 @@
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.deps.json
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.runtimeconfig.json
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.runtimeconfig.dev.json
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.dll
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/bin/Debug/netcoreapp3.1/GameServer.pdb
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.csprojAssemblyReference.cache
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.csproj.CoreCompileInputs.cache
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.AssemblyInfoInputs.cache
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.AssemblyInfo.cs
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.dll
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.pdb
+/Users/lancelot/Documents/dnd/Unity/GameServer/GameServer/obj/Debug/netcoreapp3.1/GameServer.genruntimeconfig.cache
